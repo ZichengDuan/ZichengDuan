@@ -6,7 +6,7 @@
 - 📖 I'm currently pursuing my Master's Degree @ ANU
 - 💻 I'm currently working in Chinese Academy of Science.
 - 🌱 I’m currently learning deep learning, 3D detection, linear algebra.
-- 📫 How to reach me: [my ANU email](u7170273@anu.edu.au), [personal page](ZichengDuan.github.io)
+- 📫 How to reach me: my [ANU email](u7170273@anu.edu.au), [personal page](ZichengDuan.github.io)
 
 Wish you have a good day today! 😁 
 
