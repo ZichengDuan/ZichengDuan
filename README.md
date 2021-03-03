@@ -8,4 +8,5 @@
 - 🌱 I’m currently learning deep learning, 3D detection, linear algebra.
 
 Wish you have a good day today! 😁 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZichengDuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
