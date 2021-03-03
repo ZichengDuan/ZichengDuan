@@ -7,5 +7,10 @@
 - 💻 I'm currently working in Chinese Academy of Science.  
 - 🌱 I’m currently learning deep learning, 3D detection, linear algebra.  
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=ZichengDuan&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZichengDuan&hide=TeX&layout=compact)
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/ZichengDuan/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ZichengDuan/github-stats-transparent/output/generated/languages.svg)
+
+</a>
