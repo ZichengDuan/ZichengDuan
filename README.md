@@ -10,7 +10,6 @@
 ### 📊 Github Stats
 <a href='https://github.com/ZichengDuan/github-stats-transparent'>
   
-![Stats Overview](https://github.com/ZichengDuan/github-stats-transparent/blob/output/generated/overview.svg)
 ![Most Used Languages](https://github.com/ZichengDuan/github-stats-transparent/blob/output/generated/languages.svg)
 
 </a>
