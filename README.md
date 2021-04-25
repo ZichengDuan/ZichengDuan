@@ -11,5 +11,5 @@
 <a href='https://github.com/ZichengDuan/github-stats-transparent'>
   
 ![Most Used Languages](https://github.com/ZichengDuan/github-stats-transparent/blob/output/generated/languages.svg)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZichengDuan&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
 </a>
