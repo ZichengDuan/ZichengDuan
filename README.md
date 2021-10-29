@@ -1,4 +1,5 @@
-### Welcome to my github main page 👋 - _Sic Parvis Magna_
+### Welcome to my github main page 👋  
+> **_Sic Parvis Magna_**
 
 - 🔭 I’m currently working on Deep Learning, Compuer Vision.
 - 📖 I'm currently pursuing my Master's Degree @ ANU.  
